@@ -2,10 +2,12 @@
 
 Snake game in python
 
-Getting and running
+**Getting and running**
 
-Dependencies
-  -Python 3.6.8
-  -Python pygame
+*Dependencies*
+
+	-Python 3.6.8
+
+	-Python pygame
   
   
