@@ -7,7 +7,6 @@ Snake game in python
 *Dependencies*
 
 	-Python 3.6.8
-
 	-Python pygame
   
   
