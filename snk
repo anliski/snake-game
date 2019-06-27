@@ -1,0 +1,32 @@
+from pyglet.gl import *
+from pyglet.window import key
+import math as math
+
+class Snake:
+	def head():
+		x = 0
+		y = 0
+		# draw box
+
+
+
+class Window(pyglet.window.Window):
+	def __init__(self, *args, **kvargs):
+		super().__init__(*args, **kvargs)
+		print("W_init_")
+
+	def on_draw(self):
+		self.clear()
+		# get position 		
+
+
+
+if __name__=='__main__':
+	window=Window(width=400, height=400, caption="Wormy")
+	#glClearColor(0.8, 0.8, 1, 0.5)
+	#glLineWidth(3)	
+	window.on_draw()	
+
+	pyglet.app.run()
+
+
